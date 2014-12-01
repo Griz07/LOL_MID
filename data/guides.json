@@ -1,0 +1,42 @@
+{"guides":[
+	{
+		"title": "From Bronze to Plat with Fiora Top!",
+		"imagen": "assets/guides/fiora_skills/fiora-classic.jpg",
+		"spells": ["assets/guides/spells/flash.png","assets/guides/spells/ignite.png"],
+		"items": ["assets/guides/ravenous-hydra.gif","assets/guides/the-black-cleaver.gif","assets/guides/ionian-boots-of-lucidity.gif","assets/guides/randuins-omen.gif","assets/guides/the-bloodthirster.gif","assets/guides/guardian-angel.gif","assets/guides/oracles-lens.gif"],
+		"skills_img": ["assets/guides/fiora_skills/fiora-duelist.png","assets/guides/fiora_skills/fiora-lunge.png","assets/guides/fiora_skills/fiora-riposte.png","assets/guides/fiora_skills/fiora-burst-of-speed.png","assets/guides/fiora_skills/fiora-blade-waltz.png"],
+		"skills": ["w", "q", "e", "q", "q", "r", "q", "e", "q", "e", "r", "e", "e", "w", "w", "r", "w", "w"]
+	},
+	{
+		"title": "Caitlyn - IT'S A TARP",
+		"imagen": "assets/guides/caitlyn_skills/caitlyn-arctic-warfare.jpg",
+		"spells": ["assets/guides/spells/heal.png","assets/guides/spells/flash.png"],
+		"items": ["assets/guides/phantom-dancer.gif","assets/guides/blade-of-the-ruined-king.gif","assets/guides/guardian-angel.gif","assets/guides/mercurial-scimitar.gif","assets/guides/zephyr.gif","assets/guides/berserkers-greaves.gif","assets/guides/greater-stealth-totem.gif"],
+		"skills_img": ["assets/guides/caitlyn_skills/caitlyn-headshot.png","assets/guides/caitlyn_skills/caitlyn-piltover-peacemaker.png","assets/guides/caitlyn_skills/caitlyn-yordle-snap-trap.png","assets/guides/caitlyn_skills/caitlyn-90-caliber-net.png","assets/guides/caitlyn_skills/caitlyn-ace-in-the-hole.png"],
+		"skills": ["q", "e", "q", "w", "q", "r", "q", "e", "q", "e", "r", "e", "e", "w", "w", "r", "w", "w"]
+	},
+	{
+		"title": "Ezreal Build",
+		"imagen": "assets/guides/ezreal_skills/ezreal-debonair.jpg",
+		"spells": ["assets/guides/spells/flash.png","assets/guides/spells/heal.png"],
+		"items": ["assets/guides/muramana.gif","assets/guides/ionian-boots-of-lucidity.gif","assets/guides/iceborn-gauntlet.gif","assets/guides/last-whisper.gif","assets/guides/blade-of-the-ruined-king.gif","assets/guides/infinity-edge.gif","assets/guides/greater-stealth-totem.gif"],
+		"skills_img": ["assets/guides/ezreal_skills/ezreal-rising-spell-force.png","assets/guides/ezreal_skills/ezreal-mystic-shot.png","assets/guides/ezreal_skills/ezreal-essence-flux.png","assets/guides/ezreal_skills/ezreal-arcane-shift.png","assets/guides/ezreal_skills/ezreal-trueshot-barrage.png"],
+		"skills": ["q", "e", "q", "w", "q", "r", "q", "e", "q", "e", "r", "e", "e", "w", "w", "r", "w", "w"]
+	},
+	{
+		"title": "JOIN THE NBA TODAY [Diamond]",
+		"imagen": "assets/guides/darius_skills/darius-lord.jpg",
+		"spells": ["assets/guides/spells/flash.png","assets/guides/spells/ignite.png"],
+		"items": ["assets/guides/ninja-tabi-alacrity.gif","assets/guides/ravenous-hydra.gif","assets/guides/randuins-omen.gif","assets/guides/trinity-force.gif","assets/guides/maw-of-malmortius.gif","assets/guides/guardian-angel.gif","assets/guides/greater-stealth-totem.gif"],
+		"skills_img": ["assets/guides/darius_skills/darius-hemorrhage.png","assets/guides/darius_skills/darius-decimate.png","assets/guides/darius_skills/darius-crippling-strike.png","assets/guides/darius_skills/darius-apprehend.png","assets/guides/darius_skills/darius-noxian-guillotine.png"],
+		"skills": ["q", "e", "w", "q", "q", "r", "q", "w", "q", "w", "r", "w", "e", "w", "e", "r", "e", "e"]
+	},
+	{
+		"title": "Charm them to Death!",
+		"imagen": "assets/guides/ahri_skills/ahri-classic.jpg",
+		"spells": ["assets/guides/spells/ignite.png","assets/guides/spells/flash.png"],
+		"items": ["assets/guides/athenes-unholy-grail.gif","assets/guides/sorcerers-shoes.gif","assets/guides/rabadons-deathcap.gif","assets/guides/void-staff.gif","assets/guides/zhonyas-hourglass.gif","assets/guides/deathfire-grasp.gif","assets/guides/oracles-lens.gif"],
+		"skills_img": ["assets/guides/ahri_skills/ahri-essence-theft.png","assets/guides/ahri_skills/ahri-orb-of-deception.png","assets/guides/ahri_skills/ahri-fox-fire.png","assets/guides/ahri_skills/ahri-charm.png","assets/guides/ahri_skills/ahri-spirit-rush.png"],
+		"skills": ["q", "e", "w", "q", "q", "r", "q", "w", "q", "e", "r", "w", "w", "e", "e", "r", "e", "e"]
+	}
+]}

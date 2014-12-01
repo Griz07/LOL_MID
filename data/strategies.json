@@ -1,0 +1,18 @@
+{"strategies":[
+	{
+		"name": "Presentación de Campeones: Azir, el emperador de las arenas",
+		"path": "assets/video/azir_video.mp4"
+	},
+	{
+		"name": "Guía de Campeones: Caitlyn, la Sheriff de Piltóver",
+		"path": "assets/video/caitlyn_video.mp4"
+	},
+	{
+		"name": "Presentación de Campeones: Kalista, el Espíritu de la Venganza",
+		"path": "assets/video/kalista_video.mp4"
+	},
+	{
+		"name": "Presentación de Campeones: Yasuo, el Imperdonable",
+		"path": "assets/video/yasuo_video.mp4"
+	}
+]}
