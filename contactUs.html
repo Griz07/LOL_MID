@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<title>Contáctanos</title>
+</head>
+<body>
+<header>
+	<h3>Contáctanos</h3>
+	<div> 
+		<p>Si deseas agregar una guía puedes mandárnoslo</p>
+	</div>
+	<form id="contactUs">
+		<div id="name">
+			<label>Nombre
+				<input name="name" id="c_name" type="text" placeholder="Nombre" required />
+			</label>
+			<br/>
+		</div>
+		<div id="summoner">
+			<label>summonername
+				<input name="summoner" id="c_summoner" type="text" placeholder ="Summonername" required />
+			</label>
+		</div>
+		<div id="mail">
+			<label>e-mail
+				<input name="email" id="c_mail" type="email" placeholder ="algo@example.com" required/>				
+			</label>
+		</div>
+		<div id="guia">
+			<label>
+				Guia
+				<input name="guia" id="c_guia" type="button" value="SubirArchivo" required onclick="" />
+			</label>
+		</div>
+		<div id="mensaje">
+			<label for="Mensaje">Mensaje:
+            	<textarea name="Mensaje" cols="40" rows="6" required placeholder="Cuéntanos como te funciono esta guía" wrap="off"></textarea>
+            </label>
+		</div>
+		<div id="buttonEnviar">
+			<button class="submit" type="submit"> Enviar</button>
+		</div>
+		
+	</form>
+</header>
+</body>
+</html>
